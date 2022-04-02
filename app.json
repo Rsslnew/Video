@@ -38,11 +38,6 @@
       "description": "chunk size that should be used with requests",
       "value": "128",
       "required": false
-    },
-    "Leave This": {
-      "description": "Leave It Or Also U Can Type Anything by @movieskacona Its Telegram Id",
-      "value": "Thx For Using ❤",
-      "required": false
     }
   },
   "addons": [
