@@ -6,6 +6,9 @@
 * ✅Supports Custom Caption/ Permanent Thumbnail
 * ✅Force Subscribe To Targeted Chat
 * ✅Direct Deploy To Heroku (Strongly Recommended Using heroku.deploy?template=)
+# Deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darkfur2340/Darks-Rename-File-to-Video-Converter-Bot)
 
 # Required Strings :-
 
