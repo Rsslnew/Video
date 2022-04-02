@@ -1,6 +1,6 @@
 {
   "name": "TG Rename Bot",
-  "description": "Telegram's best Open Source Rename Bot. Create your Fork now.For Any Issues Contact @movieskacona on Telegram I Will try my best to help.",
+  "description": "Telegram's best Open Source Rename Bot. Create your Fork now.For Any Issues Contact @movieskacona on Telegram.",
   "keywords": [
     "telegram",
     "best",
@@ -38,6 +38,7 @@
       "description": "chunk size that should be used with requests",
       "value": "128",
       "required": false
+    },
     "Leave This": {
       "description": "Leave It Or Also U Can Type Anything by @movieskacona Its Telegram Id",
       "value": "Thx For Using ❤",
