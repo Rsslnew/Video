@@ -5,6 +5,7 @@
 * ✅Convert Files into Video
 * ✅Supports Custom Caption/ Permanent Thumbnail
 * ✅Force Subscribe To Targeted Chat
+* ✅Direct Deploy To Heroku (Strongly Recommended Using heroku.deploy?template=)
 
 # Required Strings :-
 
