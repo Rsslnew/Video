@@ -20,16 +20,10 @@
 # Note
 It's Fully Costomized and Enchanced Repo Of No No_One_Knows_Me Repo
 # Commands For Botfather
-start - Check Wether I M alive or not
-
-help - If U Need Any Help
-
-rename - Reply A File And Type Ur File Name After Rename
-
-c2v - Use It For Converting File Into Video
-
-showthumb - To Set An Thumbnail
-
-delthumb - To Delete an Thumbnail
-
-scaption - /scaption your caption text
+<pre>start - Check Wether I M alive or not
+     help - If U Need Any Help
+     rename - Reply A File And Type Ur File Name After Rename
+     c2v - Use It For Converting File Into Video
+     showthumb - To Set An Thumbnail
+     delthumb - To Delete an Thumbnail
+     scaption - /scaption your caption text</pre>
