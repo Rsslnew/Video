@@ -119,6 +119,6 @@ async def show_thumb(bot, update):
     else:
         await bot.send_message(
             chat_id=update.chat.id,
-            text=Translation.NO_THUMB_FOUND_If_any_issue_report_@movieskacona,
+            text=Translation.NO_THUMB_FOUND,
             reply_to_message_id=update.message_id
         )
