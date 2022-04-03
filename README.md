@@ -17,5 +17,5 @@
 * -> `UPDATE_CHANNEL`<br> **An Channel Username Which You Want to Use As An ForceSub Channel Put It Without @**
 
 * -> `APP_ID`__And__ `API_HASH`<br>**Get It From [Here](http://www.my.telegram.org) or [@UseTGXBot](http://www.telegram.dog/UseTGXBot)**
-#Note
+# Note
 It's Fully Costomized and Enchanced Repo Of No No_One_Knows_Me Repo
